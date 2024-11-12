@@ -43,7 +43,7 @@ const Navbar = () => {
       <div className="flex items-center gap-6">
         {/* Chatbot Icon */}
         <a
-          href="https://your-chatbot-app-url.com"
+          href=" http://localhost:3000/" 
           target="_blank"
           rel="noopener noreferrer"
         >
